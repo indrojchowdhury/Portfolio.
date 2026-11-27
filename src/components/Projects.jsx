@@ -17,7 +17,8 @@ const projects = [
     ],
     tech: "Django REST Framework, React (Vite), PostgreSQL, JWT, SSLCommerz",
     image: flipBoxScreenshot,
-    github: "",
+    github: "https://github.com/indrojchowdhury/Multivendor_Ecommerce_Marketplace",
+    live: "https://flipbox-marketplace.vercel.app",
     backend: "",
     swagger: "",
     category: "E-Commerce"
@@ -33,7 +34,8 @@ const projects = [
     ],
     tech: "React, Django REST Framework, PostgreSQL, Gemini API",
     image: atsAnalyzerImage,
-    github: "",
+    github: "https://github.com/indrojchowdhury/ATS_Analyzer",
+    live: "https://ats-analyzer-alpha.vercel.app",
     backend: "",
     swagger: "",
     category: "AI & Career"
@@ -49,7 +51,8 @@ const projects = [
     ],
     tech: "React, Django REST Framework, PostgreSQL, Celery, Redis, Pillow",
     image: pixelFlowImage,
-    github: "",
+    github: "https://github.com/indrojchowdhury/PixelFlow",
+    live: "https://pixelflow-rust.vercel.app",
     backend: "",
     swagger: "",
     category: "Image Processing"
