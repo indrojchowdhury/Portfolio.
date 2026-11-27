@@ -13,7 +13,7 @@ import {
 const highlights = [
   {
     title: "Secure Systems",
-    desc: "Implementing JWT authentication, email verification, password reset flows, and role-based access control using Django.",
+    desc: "Implementing JWT authentication and role-based access control with Django, using ownership checks so users can only access their own data.",
     icon: ShieldCheckIcon,
     bgColor: "bg-blue-50 dark:bg-blue-900/20",
     iconColor: "text-blue-600 dark:text-blue-400",
@@ -21,15 +21,15 @@ const highlights = [
   },
   {
     title: "Scalable Backends",
-    desc: "Building RESTful APIs with Python, Django, and MySQL, focusing on clean architecture and performance optimization.",
+    desc: "Building RESTful APIs with Python, Django, and PostgreSQL, focusing on filtering, pagination, and transaction-safe order handling.",
     icon: ServerIcon,
     bgColor: "bg-indigo-50 dark:bg-indigo-900/20",
     iconColor: "text-indigo-600 dark:text-indigo-400",
     borderColor: "border-indigo-200 dark:border-indigo-800"
   },
   {
-    title: "Cloud-Ready Apps",
-    desc: "Developing production-ready applications using Docker, MySQL, secure authentication workflows, and responsive React frontends.",
+    title: "Smart Web Apps",
+    desc: "Developing responsive React frontends backed by Celery and Redis background processing, plus optional Gemini-powered AI features.",
     icon: CubeIcon,
     bgColor: "bg-teal-50 dark:bg-teal-900/20",
     iconColor: "text-teal-600 dark:text-teal-400",
